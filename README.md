@@ -223,12 +223,12 @@ python src/train.py \
 
 | Week | Milestone | Status |
 |------|-----------|--------|
-| 1 | Literature survey & infrastructure initialization | Complete |
-| 2 | Problem definition & research gap analysis | In Progress |
-| 3 | Data pipeline: 5-tuple splits, windowing, masking | Pending |
-| 4 | Architecture implementation: attention layers, RTE decoder | Pending |
-| 5 | Baseline comparison experiments (LSTM, GRU, RF) | Pending |
-| 6 | Evaluation, ablations, and report drafting | Pending |
+| 1 | Literature survey | Complete |
+| 2 | Problem definition & research gap analysis | Complete |
+| 3 | IDS Dataset Preprocessing and Traffic Analysis | Complete |
+| 4 |  | Pending |
+| 5 |  | Pending |
+| 6 |  | Pending |
 
 ---
 
