@@ -242,13 +242,4 @@ python src/train.py \
   journal   = {arXiv preprint arXiv:2606.11098v1},
   year      = {2026}
 }
-
-@inproceedings{liu2025rtdetector,
-  title     = {RTdetector: Deep Transformer Networks for Time Series
-               Anomaly Detection Based on Reconstruction Trend},
-  author    = {Liu, X. and Li, X. and Li, Y. and Tang, F. and Zhao, M.},
-  booktitle = {Proceedings of the 34th International Joint Conference
-               on Artificial Intelligence (IJCAI-25)},
-  year      = {2025}
-}
 ```
